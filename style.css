@@ -31,7 +31,7 @@
 }
 .tableau-style{
   position: relative;
-  top: -190px;
+  top: -133px;
   border-collapse: collapse;
   min-width: 100px;
   width: auto;
@@ -83,6 +83,7 @@ body{
 }
 
 header .nav-bar{
+  
     top:0;
     left: 0;
      position: relative;
@@ -206,7 +207,7 @@ section{
 
 @media screen and (max-width: 850px) {
   header .nav-bar {
-      padding: 0 20px;
+      padding: 0 30px;
   }
   .content-1 {
     flex-direction: column;
@@ -364,7 +365,7 @@ justify-content: center;
 align-items: center;
 }
 .content{
-  top: -240px;
+  top: -196px;
   padding-top: 10%;
 position: relative;
 width: 100%;
@@ -410,7 +411,7 @@ align-items: center;
   
   .section-title{
     position: relative;
-    top: -219px;
+    top: -164px;
     text-align: center;
     color: white;
     font-size: 3em;
