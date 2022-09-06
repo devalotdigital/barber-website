@@ -31,13 +31,12 @@
 }
 .tableau-style{
   position: relative;
-  top: -133px;
   border-collapse: collapse;
   min-width: 100px;
   width: 85%;
   box-shadow: 0 5px 50px rgba(white, white, white, alpha);
   cursor: pointer;
-  margin: 100px auto;
+  margin: 50px auto;
   border: 2px solid #199fff;
 }
 
@@ -429,10 +428,10 @@ align-items: center;
     font-size: 2em;
     margin: 60px;
   }
+ 
   
   .section-title{
     position: relative;
-    top: -138px;
     text-align: center;
     color: white;
     font-size: 3em;
@@ -440,7 +439,7 @@ align-items: center;
   } 
    .section-title-1{
     position: relative;
-    top: 85px;
+    top: -145px;
     text-align: center;
     color: white;
     font-size: 3em;
@@ -505,7 +504,7 @@ align-items: center;
 }
 
 .sec-03{
-  margin-bottom: 10px;
+  margin-bottom: -115px;
 }
       
 
